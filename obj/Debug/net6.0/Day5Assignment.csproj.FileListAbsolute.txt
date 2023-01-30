@@ -1,0 +1,15 @@
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day5Assignment\bin\Debug\net6.0\Day5Assignment.exe
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day5Assignment\bin\Debug\net6.0\Day5Assignment.deps.json
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day5Assignment\bin\Debug\net6.0\Day5Assignment.runtimeconfig.json
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day5Assignment\bin\Debug\net6.0\Day5Assignment.dll
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day5Assignment\bin\Debug\net6.0\Day5Assignment.pdb
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day5Assignment\obj\Debug\net6.0\Day5Assignment.csproj.AssemblyReference.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day5Assignment\obj\Debug\net6.0\Day5Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day5Assignment\obj\Debug\net6.0\Day5Assignment.AssemblyInfoInputs.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day5Assignment\obj\Debug\net6.0\Day5Assignment.AssemblyInfo.cs
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day5Assignment\obj\Debug\net6.0\Day5Assignment.csproj.CoreCompileInputs.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day5Assignment\obj\Debug\net6.0\Day5Assignment.dll
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day5Assignment\obj\Debug\net6.0\refint\Day5Assignment.dll
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day5Assignment\obj\Debug\net6.0\Day5Assignment.pdb
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day5Assignment\obj\Debug\net6.0\Day5Assignment.genruntimeconfig.cache
+C:\Users\91790\Desktop\dotnet\SelfPratice\Day5Assignment\obj\Debug\net6.0\ref\Day5Assignment.dll
